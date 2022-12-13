@@ -1,0 +1,13 @@
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/bunny
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/bunny.png
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/background.png
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ash/tasks/task-06/bunny/build/linux/x64/debug/bundle/data/flutter_assets/version.json
