@@ -1,0 +1,72 @@
+body {
+  text-align: center;
+  background-color: #000000c8;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #000000ad;
+
+}
+
+.w {
+
+}
+
+.a {
+
+}
+
+.s {
+
+}
+
+.d {
+
+}
+
+.j {
+
+}
+
+.k {
+
+}
+
+.l {
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #000000;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #ffffff;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(162, 162, 162);
+}
+.drum:active {box-shadow: 0 3px 4px 0 #000000;
+  opacity: 0.4;
+}
