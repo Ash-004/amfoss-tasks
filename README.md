@@ -1,5 +1,11 @@
 # Amfoss Praveshan 2022
 
+Heya 👋, Im Sarang and this is my AMFOSS task repository.
+
+
+
+
+
 | Task List  | Task | Status |
 | ------------- | ------------- | ------------- |
 | [Task-00](task-00)  | DualBoot Linux  | COMPLETED |
@@ -18,3 +24,4 @@
 | [Task-13](task-13)  | Arduino - FootFall Counter  | COMPLETED |
 | [Task-14](task-14)  | Bandit Over The Wire  | COMPLETED |
 | [Task-15](task-15)  | Project Euler  | COMPLETED |
+
